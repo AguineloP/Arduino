@@ -1,2 +1,2 @@
-# Arduino
-Só pra guardar os códiguin q eu for fazendo no arduino para acompanhar minha evolução
+# Arduino bare-metal
+Codando na unha, mexendo porta a porta, I/O, via registradores
